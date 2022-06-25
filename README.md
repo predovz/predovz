@@ -1,6 +1,6 @@
 <p align="center">
    <a href="#">
-      <img width="100" src="./avatar.jpg" alt="avatar" />
+      <img width="100" src="https://ik.imagekit.io/alpredovandy/avatar-v1_VA_FrxE1F.jpg" alt="avatar" />
    </a>
 </p>
 
